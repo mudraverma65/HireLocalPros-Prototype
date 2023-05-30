@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+<!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Gabriella Mosquera for academic use ---> 
+<!--- You may delete any comments in this sample README.md file. If needing to use as a .txt file then simply delete all comments, edit as needed, and save as a README.txt file --->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Assignment 1
 
-## Available Scripts
+A prototype for service provider website with a semi-functioning search feature. A user can search for a category and service providers belonging to the category will be listed. User can also contact the provider by viewing at the provider's profile page where their contact information is displayed.
 
-In the project directory, you can run:
+* *Date Created*: 30 MAY 2023
+* *Last Modification Date*: 30 MAY 2023
+* *Deploy URL*: <http://example.com/>
+* *Git URL*: <https://git.cs.dal.ca/mudra/csci_5709_assignments.git/>
 
-### `npm start`
+## Authors
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**[Optional]** If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. Otherwise list the members of your group.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* [Mudra Verma](mudraverma@dal.ca)*
 
-### `npm test`
+## Testing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Included a json file with two user profiles for each respective category. Searched multiple categories to display results. Checked responsiveness using the inspect element feature on browsers.
 
-### `npm run build`
+## Deployment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Add additional notes about how you deployed this work on a live system
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!--- Provide a list of the frameworks used to build this application, your list should include the name of the framework used, the url where the framework is available for download and what the framework was used for, see the example below --->
 
-### `npm run eject`
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Sources Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If in completing your lab / assignment / project you used any interpretation of someone else's code, then provide a list of where the code was implement, how it was implemented, why it was implemented, and how it was modified. See the sections below for more details.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### File Name
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+*Lines ## - ##*
 
-## Learn More
+```
+Copy and paste your code on lines mentioned 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The code above was created by adapting the code in [NAME](link) as shown below: 
 
-### Code Splitting
+```
+Copy and paste the snippet of code you are referencing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
 
-### Analyzing the Bundle Size
+- <!---How---> The code in [NAME](link) was implemented by...
+- <!---Why---> [NAME](link)'s Code was used because...
+- <!---How---> [NAME](link)'s Code was modified by...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+*Repeat as needed*
 
-### Making a Progressive Web App
+### File Name
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+*Lines ## - ##*
 
-### Advanced Configuration
+```
+Copy and paste your code on lines mentioned 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
 
-### Deployment
+The code above was created by adapting the code in [NAME](link) as shown below: 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
+Copy and paste the snippet of code you are referencing
 
-### `npm run build` fails to minify
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- <!---How---> The code in [NAME](link) was implemented by...
+- <!---Why---> [NAME](link)'s Code was used because...
+- <!---How---> [NAME](link)'s Code was modified by...
+
+*Repeat as needed*
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
