@@ -20,6 +20,9 @@ const SearchBar = ({ handleSearch }) => {
         <img src={search} className="SearchIcon" alt="Search Icon" />
         <input type="text" value={searchTerm} onChange={handleChange} />
       </div>
+      <div class = 'SearchButton'>
+        <div class = 'ButtonS'onClick={handleSubmit}>Search</div>
+      </div>
     </form>
   );
 };

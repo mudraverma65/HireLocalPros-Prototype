@@ -373,6 +373,10 @@ input[type="text"] {
     line-height: 1.7em;
 }
 
+.SearchButton{
+    display: none;
+}
+
 @media only screen and (max-width: 767px){
 
     .Header{
@@ -469,6 +473,7 @@ input[type="text"] {
     }
 
     .SearchBar{
+        margin: 5px 0;
         padding: 10px 10px;
         border-radius: 10px;
     }
@@ -568,4 +573,14 @@ input[type="text"] {
     .FooterList {
         margin-top: 0px;
     }
+
+    .SearchRow{
+        display: block;
+    }
+
+    .SearchButton{
+        display: flex;
+        justify-content: center;
+    }
+
 }
