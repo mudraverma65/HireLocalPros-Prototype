@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Ted Mosby",
+    "category": "Architect",
+    "age": 34,
+    "rating": 4.2,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 1,
+    "name": "Olivia Smith",
+    "category": "Architect",
+    "age": 28,
+    "rating": 4.5,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 2,
+    "name": "Ethan Johnson",
+    "category": "Electrician",
+    "age": 35,
+    "rating": 3.8,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 3,
+    "name": "Mason Davis",
+    "category": "Electrician",
+    "age": 31,
+    "rating": 4.7,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Wilson",
+    "category": "Plumber",
+    "age": 27,
+    "rating": 4.9,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 5,
+    "name": "Liam Martinez",
+    "category": "Plumber",
+    "age": 41,
+    "rating": 3.6,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 6,
+    "name": "Ava Anderson",
+    "category": "It & Software",
+    "age": 32,
+    "rating": 4.3,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 7,
+    "name": "Mia Thomas",
+    "category": "It & Software",
+    "age": 29,
+    "rating": 4.6,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 8,
+    "name": "Lucas Clark",
+    "category": "Writer",
+    "age": 36,
+    "rating": 4.1,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 9,
+    "name": "Noah Taylor",
+    "category": "Writer",
+    "age": 45,
+    "rating": 4,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 10,
+    "name": "Amelia Rodriguez",
+    "category": "Finance",
+    "age": 30,
+    "rating": 4.8,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  },
+  {
+    "id": 11,
+    "name": "Benjamin Thompson",
+    "category": "Finance",
+    "age": 37,
+    "rating": 3.9,
+    "bio": "morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh praesent tristique magna sit amet purus gravida quis blandit turpis cursus in hac habitasse platea"
+  }
+]
