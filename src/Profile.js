@@ -16,7 +16,7 @@ function Profile(){
             
                 <div class = 'ProfileBioRow'>
                     <div class = 'ProfileImageCol'>
-                        <img src={profile} class="ProfileImg"/>
+                        <img src={profile} class="ProfileImg" alt="logo"/>
                     </div>
                 <div class = 'ProfileDesCol'>
                     <div class = 'ProfileName'>
