@@ -22,7 +22,12 @@ Included a json file with two user profiles for each respective category. Search
 
 ## Deployment
 
-Deployed on Netlify after creating a repo on Github
+Deployed on Netlify after creating a repo on Github.
+Homepage: https://mudraverma-a1-csci5709.netlify.app/
+Search results page: https://mudraverma-a1-csci5709.netlify.app/search-results
+Profile page https://mudraverma-a1-csci5709.netlify.app/profile
+
+The search results page and profile page need data to be accessed. After searching a category the search-results can be viewed and individual profiles can be opened using the 'view profile' button.
 
 ## Built With
 

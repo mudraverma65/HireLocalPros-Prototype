@@ -15,7 +15,7 @@ function ProfileResults({searchResults}){
         <div class = 'Frame'>
             {searchResults && searchResults.length > 0 ? (
             searchResults.map((result)=>(
-                <div key={result.id} className='ResultsRow'>
+                <div key={result.id} className='ResultsRow' onClick={() => handleViewProfile(result)}>
                 <div class = 'ProfileImgCol'>
                     <img src={profile} class="ProfileImgResults" alt='logo'/>
                 </div>
