@@ -1,7 +1,7 @@
 <!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Gabriella Mosquera for academic use ---> 
 <!--- You may delete any comments in this sample README.md file. If needing to use as a .txt file then simply delete all comments, edit as needed, and save as a README.txt file --->
 
-# HireLocalPros Prototype (Assignment 1)
+# HireLocalPros Prototype
 
 A prototype for service provider website with a semi-functioning search feature. A user can search for a category and service providers belonging to the category will be listed. User can also contact the provider by viewing at the provider's profile page where their contact information is displayed.
 
